@@ -612,12 +612,6 @@ html {
     padding: 35px 15px;
     width: 100%;
 }
-.box-item{
-    position: relative;
-    -webkit-backface-visibility: hidden;
-    width: 100%;
-    max-width: 100%;
-}
 .flip-box{
     -ms-transform-style: preserve-3d;
     transform-style: preserve-3d;
