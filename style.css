@@ -1271,4 +1271,10 @@ td a:hover {
     .btn2{
         font-size: 1.2rem;
     }
+    .typed_text{
+        text-align: left;
+    }
+    .hero_text{
+        text-align: center;
+    }
 }
