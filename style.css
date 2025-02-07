@@ -1215,7 +1215,7 @@ td a:hover {
         padding-top: 10px;
     }
 }
-@media (max-width : 412px) {
+@media (max-width : 360px) {
     .education_expirence {
         flex-direction: column;
         grid-template-columns: repeat(1,1fr);
@@ -1262,5 +1262,13 @@ td a:hover {
     .experience h1{
         padding-top: 10px;
     }
-    
+    .hero_btns{
+        width: 250px;
+    }
+    .btn{
+        font-size: 1.2rem;
+    }
+    .btn2{
+        font-size: 1.2rem;
+    }
 }
